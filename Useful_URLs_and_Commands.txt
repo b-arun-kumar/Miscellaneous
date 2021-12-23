@@ -1,0 +1,32 @@
+Shrink VMDK size:
+https://withdave.com/2018/07/compacting-windows-10-vms-and-shrinking-their-vdi-vmdk-disk-images-on-virtualbox-host/
+https://vladimir-ivanov.net/how-to-compact-virtualboxs-vdmk-file-size/
+https://protechgurus.com/clone-virtual-machine-virtualbox/ 
+
+Print the largest files and directories:
+du -ahx . | sort -rh | head -5
+
+Which directories are using a lot of disk space:
+sudo du -h --max-depth=1
+
+Find files:
+https://www.plesk.com/blog/various/find-files-in-linux-via-command-line/
+
+Combine several zip files:
+http://mwiki.gichd.org:8090/IM/Combine_several_zip_files
+
+Internet access on VM:
+Use NAT
+https://upcloud.com/community/tutorials/troubleshoot-network-connectivity-linux-server/
+https://forums.virtualbox.org/viewtopic.php?f=6&t=32722
+https://www.unixmen.com/45713-2/
+
+Valgrind for arm:
+http://embetek.blogspot.com/2011/10/valgrind-for-arm.html
+
+Cipher decoding:
+https://string-functions.com/reverse.aspx
+http://practicalcryptography.com/cryptanalysis/text-characterisation/identifying-unknown-ciphers/
+https://www.dcode.fr/rot-13-cipher
+https://cryptii.com/pipes/caesar-cipher
+
